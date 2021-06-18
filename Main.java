@@ -1,8 +1,8 @@
-package Abgabe1;
-
 public class Main {
+
     public static void main(String[] args) {
-        Kiosk kiosk = new Kiosk();
-        kiosk.update();
+
+        Personalverwaltung personalverwaltung = new Personalverwaltung();
+        personalverwaltung.update();
     }
 }
